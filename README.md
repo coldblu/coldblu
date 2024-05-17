@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in **Programming and Web Development**
 
-- 🌱 I’m currently learning **JavaScript, HTML & CSS, Java and PHP.**
+- 🌱 I’m currently learning **Flutter, SpringBoot, Angular, JavaScript, HTML & CSS, Java.**
 
 - 💬 Ask me about **PHP**
 
