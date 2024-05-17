@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, SpringBoot, Angular, JavaScript, HTML & CSS, Java.**
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **yuri.230@gmail.com**
 
